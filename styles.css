@@ -1,0 +1,147 @@
+body{
+  font-family: 'Roboto Condensed ', sans-serif;
+  text-align: center;
+
+}
+/* container-fluid */
+.container-fluid{
+  padding: 7% 15% ;
+}
+/* section */
+.color-section{
+  background-color:#ff4c68;
+  color:#ffff;
+}
+.white-section{
+  background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* heading */
+.head{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size:4rem;
+  line-height: 1.5;
+  text-align: left;
+}
+
+/* navbar */
+.navbar {
+  padding-bottom:4.5rem;
+}
+.nav-link{
+    font-family: 'Roboto Condensed', sans-serif;
+  font-size:1.1rem;
+}
+.btn{
+  margin: 5% 3% 5% 0;
+}
+
+
+
+/* title */
+
+#title .container-fluid{
+  padding: 3% 15% 7% ;
+}
+
+}
+.imgg{
+  width: 20%;
+  transform: rotate(25deg);
+  position: absolute;
+  z-index: 1;
+}
+
+/* features */
+
+#features{
+  position: relative;
+  z-index: 1;
+
+}
+.features-box{
+  padding:5%;
+}
+
+p{
+  color:#8f8f8f;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom:5%;
+}
+.icon:hover{
+  color:#ff4c68;
+}
+
+/* testimonial */
+
+#testimonials {
+
+  background-color: #ef8172;
+}
+
+
+.tes_img{
+  width:10%;
+  border-radius: 100px;
+
+}
+.testimonial-text{
+  font-size:2rem;
+}
+
+/* press */
+#press{
+    background-color: #ef8172;
+      padding-bottom:3%;
+}
+.pre{
+  width: 15%;
+  margin: 20px 20px 50px;
+
+  /* pricing */
+}
+#pricing{
+  color:black;
+  padding: 100px;
+}
+
+.H2{
+font-family: 'Roboto Condensed', sans-serif;
+font-size:4rem;
+line-height: 1.5;
+}
+.uu{  color: #8f8f8f;
+
+}
+
+
+.yy{
+  color: #fff;
+font-size: 80px;
+
+}
+.ico{
+
+padding:  2% 1%;
+}
+
+.col{
+  padding: 3% 2%;
+
+}
+
+@media (max-width: 1028px) {
+
+.image {
+position: static;
+transform: rotate(5);
+
+  }
+}
